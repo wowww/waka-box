@@ -13,3 +13,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH__TOKEN }}
           GIST_ID: 18cc318bb2f82cf2ff8c0f7fa6f5e928
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIMEZONE: Asia/Seoul
